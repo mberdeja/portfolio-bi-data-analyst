@@ -4,7 +4,7 @@
 
 ## Contexto / problema de negocio
 
-Los objetivos comerciales mensuales (ingresos, envíos, kilos) de una empresa de logística internacional se repartían entre territorios de venta usando un proceso manual en Excel: pesos elegidos a criterio, revisión visual de valores atípicos, sin trazabilidad de los ajustes.
+Los objetivos comerciales mensuales (ingresos, unidades vendidas, volumen operativo) se repartían entre territorios de venta usando un proceso manual en Excel: pesos elegidos a criterio, revisión visual de valores atípicos, sin trazabilidad de los ajustes.
 
 ## Rol y alcance
 
