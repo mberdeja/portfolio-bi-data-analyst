@@ -1,6 +1,6 @@
 # Melissa Berdeja — Portfolio de Analítica de Datos & Business Intelligence
 
-Data Analyst / BI con experiencia en el sector de logística internacional, en roles que combinan estrategia comercial, liderazgo de equipos de ventas y desarrollo de BI. Este repositorio reúne casos de estudio basados en proyectos reales, reconstruidos con datos y nombres ficticios por motivos de confidencialidad.
+Data Analyst / BI con experiencia en roles que combinan estrategia comercial, liderazgo de equipos de ventas y desarrollo de BI. Este repositorio reúne casos de estudio basados en proyectos reales, reconstruidos con datos y nombres ficticios por motivos de confidencialidad.
 
 ## Proyectos
 
