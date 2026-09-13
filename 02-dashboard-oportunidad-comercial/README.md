@@ -4,7 +4,7 @@
 
 ## Contexto / problema de negocio
 
-Un equipo comercial de una empresa de logística internacional necesitaba identificar, dentro de su propia base de clientes, cuánto volumen de comercio exterior mueven fuera de la red de la empresa (la "oportunidad" desaprovechada), y priorizar dónde enfocar el esfuerzo comercial.
+Un equipo comercial necesitaba identificar, dentro de su propia base de clientes, cuánto volumen de negocio mueven fuera de la relación comercial existente (la "oportunidad" desaprovechada), y priorizar dónde enfocar el esfuerzo comercial.
 
 ## Rol y alcance
 
@@ -13,7 +13,7 @@ Rediseño integral de un dashboard de Power BI existente: mejora de la calidad v
 ## Fuentes de datos y stack técnico
 
 - Power BI (DAX, Power Query, bookmarks, drill-through)
-- Cruce de datos internos de transporte con datos externos de comercio exterior, unidos por identificador fiscal del cliente
+- Cruce de datos internos de ventas/transacciones con datos externos de mercado, unidos por identificador fiscal del cliente
 
 ## Enfoque / metodología
 
