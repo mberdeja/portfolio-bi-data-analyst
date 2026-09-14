@@ -8,13 +8,15 @@ Un equipo de ventas con una cartera fija de clientes necesitaba un reporte comer
 
 ## Rol y alcance
 
-Diseño y desarrollo end-to-end del pipeline: ingesta de datos, lógica de negocio, y generación automática de todos los entregables.
+Diseño y desarrollo end-to-end del pipeline: extracción y modelado de datos, lógica de negocio, capa de visualización, y generación automática de todos los entregables.
 
 ## Fuentes de datos y stack técnico
 
-- Python (pandas) para el ETL
-- Fuentes: exportaciones de CRM (maestro de targets, oportunidades, actividades) en Excel
-- Salidas generadas automáticamente: PowerPoint ejecutivo, dashboard HTML interactivo, imágenes PNG/SVG, reportes Excel
+- Python (pandas) para el ETL y la lógica de negocio
+- Datos comerciales extraídos de un data warehouse en la nube (Snowflake): pipeline, oportunidades y actividades
+- Maestro de targets/cuotas cargado desde Excel y cruzado contra los datos del warehouse
+- Capa de visualización en Power BI
+- Salidas adicionales generadas automáticamente: PowerPoint ejecutivo, dashboard HTML interactivo, imágenes PNG/SVG, reportes Excel
 
 ## Enfoque / metodología
 
@@ -25,7 +27,7 @@ Diseño y desarrollo end-to-end del pipeline: ingesta de datos, lógica de negoc
 
 ## Resultado / impacto
 
-Reporte ejecutivo que antes tomaba armado manual pasó a generarse en un solo paso, con métricas consistentes entre todos los formatos de salida.
+Reporte ejecutivo que antes tomaba armado manual pasó a generarse en un solo paso, con métricas consistentes entre todos los formatos de salida (Power BI, PowerPoint, HTML y Excel).
 
 ## Aprendizajes
 
