@@ -4,7 +4,7 @@ Data Analyst / BI con experiencia en roles que combinan estrategia comercial, li
 
 ## Proyectos
 
-1. **[Pipeline de reporting comercial automatizado](./01-pipeline-reporting-automatizado)** — ETL en Python + generación automática de reportes ejecutivos (PowerPoint, HTML, Excel) para un equipo de ventas con cartera fija de clientes.
+1. **[Pipeline de reporting comercial automatizado](./01-pipeline-reporting-automatizado)** — ETL en Python sobre un data warehouse en la nube (Snowflake) + generación automática de reportes ejecutivos (Power BI, PowerPoint, HTML, Excel) para un equipo de ventas con cartera fija de clientes.
 2. **[Dashboard de oportunidad comercial en Power BI](./02-dashboard-oportunidad-comercial)** — storytelling visual, matriz de riesgo de concentración de clientes, sistema de color semántico, DAX.
 3. **[Metodología de distribución de metas comerciales](./03-metodologia-distribucion-metas)** — detección automática de outliers (MAD), backtesting de pesos históricos, Excel avanzado.
 
